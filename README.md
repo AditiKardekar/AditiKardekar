@@ -6,10 +6,14 @@ I'm Aditi — a Third year AI & Data Science undergrad @ MIT-WPU, Pune. ⚡
 
 ## A Little About Me
 
-I'm genuinely obsessed with the idea that data has a story - and I want to be the one who tells it.
-A technophile at heart, growing and evolving with every wave of intelligence this world throws at me. 🤖
-Tech evolves, and so do I - that's just the deal we made.
-My sweet spot? Somewhere between a model that just clicked and a bug that finally gave up. XD
+I'm genuinely obsessed with the idea that data has a story - 
+and I want to be the one who tells it.
+A technophile at heart, growing and evolving 
+with every wave of intelligence this world throws at me. 🤖
+Tech evolves, and so do I - 
+that's just the deal we made.
+My sweet spot? Somewhere between a model that 
+just clicked and a bug that finally gave up. XD
 
 ---
 
