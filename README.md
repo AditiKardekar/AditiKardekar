@@ -1,21 +1,28 @@
+<div align="center">
+
 # 👋 Hi there
 
 I'm Aditi — where passion meets code and curiosity never clocks out.  
-AI & Data Science @ MIT-WPU, Pune. ⚡
+Third year AI & Data Science undergrad @ MIT-WPU, Pune. ⚡
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-kardekar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AditiKardekar)
 
 ---
 
 ## 🚀 What drives me
 
-I'm genuinely obsessed with the idea that data has a story —
+I'm genuinely obsessed with the idea that data has a story —  
 and I want to be the one who tells it.
 
-A technophile at heart, growing and evolving with every wave
+A technophile at heart, growing and evolving with every wave  
 of intelligence this world throws at me. 🤖
 
 Tech evolves, and so do I — that's just the deal we made.
 
-My sweet spot? Somewhere between a model that just clicked
+My sweet spot? Somewhere between a model that just clicked  
 and a bug that finally gave up. 🐛✨
 
 ---
@@ -52,11 +59,6 @@ and a bug that finally gave up. 🐛✨
 
 ---
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-kardekar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AditiKardekar)
-
----
-
 *"The best way to predict the future is to build it." — Alan Kay*
+
+</div>
