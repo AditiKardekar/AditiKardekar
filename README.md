@@ -1,29 +1,15 @@
-<div align="center">
+# Hi there
 
-# 👋 Hi there
-
-I'm Aditi — where passion meets code and curiosity never clocks out.  
-Third year AI & Data Science undergrad @ MIT-WPU, Pune. ⚡
+I'm Aditi — a Third year AI & Data Science undergrad @ MIT-WPU, Pune. ⚡
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditi-kardekar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AditiKardekar)
+## A Little About Me
 
----
-
-## 🚀 What drives me
-
-I'm genuinely obsessed with the idea that data has a story —  
-and I want to be the one who tells it.
-
-A technophile at heart, growing and evolving with every wave  
-of intelligence this world throws at me. 🤖
-
-Tech evolves, and so do I — that's just the deal we made.
-
-My sweet spot? Somewhere between a model that just clicked  
-and a bug that finally gave up. 🐛✨
+I'm genuinely obsessed with the idea that data has a story - and I want to be the one who tells it.
+A technophile at heart, growing and evolving with every wave of intelligence this world throws at me. 🤖
+Tech evolves, and so do I - that's just the deal we made.
+My sweet spot? Somewhere between a model that just clicked and a bug that finally gave up. XD
 
 ---
 
@@ -55,10 +41,4 @@ and a bug that finally gave up. 🐛✨
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-*"The best way to predict the future is to build it." — Alan Kay*
-
-</div>
+![VS Code](https://img.shields.io/badge/VSCode-007A
