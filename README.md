@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Aditi — a technophile who leads from the front and builds from the heart.  
+I'm Aditi — where passion meets code and curiosity never clocks out.  
 AI & Data Science @ MIT-WPU, Pune. ⚡
 
 ---
@@ -13,7 +13,7 @@ and I want to be the one who tells it.
 A technophile at heart, growing and evolving with every wave
 of intelligence this world throws at me. 🤖
 
-I don't just adapt to technology — I grow with it, lead with it, build with it.
+Tech evolves, and so do I — that's just the deal we made.
 
 My sweet spot? Somewhere between a model that just clicked
 and a bug that finally gave up. 🐛✨
