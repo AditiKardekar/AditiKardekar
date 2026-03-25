@@ -6,6 +6,13 @@ I'm Aditi, a Third year CSE - AI & Data Science undergrad @ MIT-WPU, Pune.
 
 ## A Little About Me ✨
 
+I'm a technophile at heart, growing and evolving 
+with every wave of intelligence this world throws at me. 🤖
+And currently I'm obsessed with the idea that data has a story - 
+and I want to be the one who tells it.
+Well.... Tech evolves, and so do I - 
+that's just the deal we made.
+
 I'm genuinely obsessed with the idea that data has a story - 
 and I want to be the one who tells it.
 A technophile at heart, growing and evolving 
