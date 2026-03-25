@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Aditi — a Third year AI & Data Science undergrad @ MIT-WPU, Pune.
+I'm Aditi, a Third year CSE - AI & Data Science undergrad @ MIT-WPU, Pune.
 
 ---
 
