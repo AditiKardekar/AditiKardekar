@@ -14,6 +14,8 @@ and I want to be the one who tells it.
 My sweet spot? Somewhere between a model that 
 just clicked and a bug that finally gave up. 😂
 
+Feel free to explore my starred repositories, drop a contribution, connect with me, and let’s build something awesome together
+
 ---
 
 ## 🛠️ Tech Stack
